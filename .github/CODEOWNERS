@@ -1,0 +1,6 @@
+# Code owners
+
+# Ensure code-scanning and security-related changes notify the maintainer
+/.github/workflows/ @tayyabshakeelmughal2001-cyber
+/.github/SECURITY_TRIAGE.md @tayyabshakeelmughal2001-cyber
+* @tayyabshakeelmughal2001-cyber
